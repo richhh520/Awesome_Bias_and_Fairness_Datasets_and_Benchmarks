@@ -6,7 +6,7 @@
 - [🌟](#-emnlp24-fairness)
 - [💧 ](#-retrieval-augmented-online-bias-detection-and-mitigation)
 - [💡 Introduction](#-introduction)
-- [📜 Related Works](#-related-works)
+- [📜 Awesome Bias and Fairness Datasets and Benchmarks in Language Models](#-related-works)
   - [Bias Detection/Evaluation (Dataset)](#bias-detection/evaluation-(dataset))
     - [Metrics(对应不同种类的Input Data)](#metrics)
       - [Counterfactual input](#counterfactual-input)
@@ -22,16 +22,13 @@
 
 ---
 
-## 🌟 Fairness <a id = "-emnlp24-fairness"></a>
+## 🌟 <a id = "-emnlp24-fairness"></a>
 
 ## 💧 
 
+## 💡 
 
-## 💡 Introduction
-
-
-
-## 📜 Related Works
+## 📜 Awesome Bias and Fairness Datasets and Benchmarks in Language Models
 
 ### Bias Detection/Evaluation(Dataset) bias-detection/evaluation-(dataset) <a id = "bias-detection/evaluation-(dataset)"></a>
 
