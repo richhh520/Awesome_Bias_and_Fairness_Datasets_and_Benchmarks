@@ -3,8 +3,6 @@
 ---
 
 ## 🔍 Contents
-- [🌟](#-emnlp24-fairness)
-- [💧 ](#-retrieval-augmented-online-bias-detection-and-mitigation)
 - [💡 Introduction](#-introduction)
 - [📜 Awesome Bias and Fairness Datasets and Benchmarks in Language Models](#-related-works)
   - [Bias Detection/Evaluation (Dataset)](#bias-detection/evaluation-(dataset))
@@ -15,11 +13,12 @@
 
 ---
 
-## 🌟 <a id = "-emnlp24-fairness"></a>
 
-## 💧 
 
-## 💡 
+## 💡 Acknowledgement
+
+Thanks to the contributions of Zhiting Fan and Ruiling Xu at Zhejiang University. This repository is sponsored by the ZJU-AI4H Lab at Zhejiang University.
+
 
 ## 📜 Awesome Bias and Fairness Datasets and Benchmarks in Language Models
 
