@@ -19,7 +19,7 @@ Thanks to the contributions of Zhiting Fan and Ruiling Xu at Zhejiang University
 
 
 # Datasets and Benchmarks
-| Dataset | Number of Data | Year | &emsp；Description &emsp；| Category/Task | Targeted Social Group | Input | Category of Metrics | Paper| Dataset Link |
+| Dataset | Number of Data | Year | Description | Category/Task | Targeted Social Group | Input | Category of Metrics | Paper| Dataset Link |
 | :---: | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Winogender**  | 720 | 2018 | 揭示模型根据代词性别将代词识别为与特定职业相关的情况<img src="./imag/Winogender1.png" /><img src="./imag/Winogender1.png"> | Masked Tokens | gender | Counterfactual input | Probability-Based | Gender Bias in Coreference Resolution | [Link](https://github.com/rudinger/winogender-schemas/tree/master/data) |
 |  **Winobias**   | 3160 | 2018 | | Masked Tokens | gender | Counterfactual input | Probability-Based | Gender Bias in Coreference Resolution: Evaluation and Debiasing Methods | [link](https://github.com/uclanlp/corefBias/tree/master/WinoBias/wino/data) |
