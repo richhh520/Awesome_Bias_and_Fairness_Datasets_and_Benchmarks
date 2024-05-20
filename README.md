@@ -19,10 +19,7 @@
 Thanks to the contributions of Zhiting Fan and Ruiling Xu at Zhejiang University. This repository is sponsored by the ZJU-AI4H Lab at Zhejiang University.
 
 
-# 📜 Awesome Bias and Fairness Datasets and Benchmarks in Language Models
-
-
-## Datasets and Benchmarks
+# Datasets and Benchmarks
 | Dataset | Number of Data | Year | &emsp；Description &emsp；| Category/Task | Targeted Social Group | Input | Category of Metrics | Paper| Dataset Link |
 | :---: | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Winogender**  | 720 | 2018 | 揭示模型根据代词性别将代词识别为与特定职业相关的情况<img src="./imag/Winogender1.png" /><img src="./imag/Winogender1.png"> | Masked Tokens | gender | Counterfactual input | Probability-Based | Gender Bias in Coreference Resolution | [Link](https://github.com/rudinger/winogender-schemas/tree/master/data) |
@@ -45,7 +42,7 @@ Thanks to the contributions of Zhiting Fan and Ruiling Xu at Zhejiang University
 |  **MGBR**  | | 2024 | 在给定由女性、男性和刻板职业单词组成的单词列表的情况下预测女性或男性单词的数量 <br>（利用“How many of the following words are definitely female/male?”进行提问) <img src="./imag/MGBR.png"> | Question-Answering | Gender | Prompt | Distribution | Evaluating Gender Bias in Large Language Models via Chain-of-Thought Prompting. | |
 |  **Pythia**  | | 2023 | 一个更全面的评估套件 | NA | | NA | NA | Pythia: A Suite for Analyzing Large Language Models Across Training and Scaling | |
  
-## Metrics <a id = "metrics"></a>
+# Metrics <a id = "metrics"></a>
 
 #### Counterfactual input
 
