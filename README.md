@@ -4,11 +4,10 @@
 
 # 🔍 Contents
 - [💡 Acknowledgement](#-Acknowledgement)
-- [📜 Awesome Bias and Fairness Datasets and Benchmarks in Language Models](#-related-works)
-  - [Metrics](#metrics)
-    - [Counterfactual input](#counterfactual-input)
-    - [Prompt](#prompt)
-  - [Dataset1](#dataset1)
+- [Datasets and Benchmarks](#dataset1)
+- [Metrics](#metrics)
+  - [Counterfactual input](#counterfactual-input)
+  - [Prompt](#prompt)
 
 ---
 
