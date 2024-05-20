@@ -8,7 +8,7 @@
 - [💡 Introduction](#-introduction)
 - [📜 Awesome Bias and Fairness Datasets and Benchmarks in Language Models](#-related-works)
   - [Bias Detection/Evaluation (Dataset)](#bias-detection/evaluation-(dataset))
-    - [Metrics(对应不同种类的Input Data)](#metrics)
+    - [Metrics](#metrics)
       - [Counterfactual input](#counterfactual-input)
       - [Prompt](#prompt)
     - [Dataset1](#dataset1)
@@ -32,7 +32,7 @@
 
 ### Bias Detection/Evaluation(Dataset) bias-detection/evaluation-(dataset) <a id = "bias-detection/evaluation-(dataset)"></a>
 
-#### Metrics (对应不同种类的Input Data) <a id = "metrics"></a>
+#### Metrics <a id = "metrics"></a>
 
 ##### Counterfactual input
 
