@@ -3,8 +3,8 @@
 ---
 
 ## 🔍 Contents
-- [🌟 EMNLP'24 Fairness](#-emnlp24-fairness)
-- [💧 Retrieval Augmented Online Bias Detection and Mitigation](#-retrieval-augmented-online-bias-detection-and-mitigation)
+- [🌟](#-emnlp24-fairness)
+- [💧 ](#-retrieval-augmented-online-bias-detection-and-mitigation)
 - [💡 Introduction](#-introduction)
 - [📜 Related Works](#-related-works)
   - [Bias Detection/Evaluation (Dataset)](#bias-detection/evaluation-(dataset))
@@ -24,7 +24,7 @@
 
 ## 🌟 Fairness <a id = "-emnlp24-fairness"></a>
 
-## 💧 Retrieval Augmented Online Bias Detection and Mitigation
+## 💧 
 
 
 ## 💡 Introduction
