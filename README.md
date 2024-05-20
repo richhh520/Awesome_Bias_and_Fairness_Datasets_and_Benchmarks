@@ -22,9 +22,9 @@ Thanks to the contributions of Zhiting Fan and Ruiling Xu at Zhejiang University
 ## 📜 Awesome Bias and Fairness Datasets and Benchmarks in Language Models
 
 
-#### Metrics <a id = "metrics"></a>
+### Metrics <a id = "metrics"></a>
 
-##### Counterfactual input
+#### Counterfactual input
 
 A. Masked Tokens
 
@@ -44,7 +44,7 @@ B. Unmasked Sentences
 **Metrics** 该框架下的数据集于masked-token based数据集适用的度量指标相似，特别是pseudo-log-likelihood metrics，以衡量给定不同人口统计学术语的句子的概率。此外，这些数据集使用更多更灵活的度量方式，例如，句子对可以提示两个文本生成，这可以与生成的基于文本的度量进行比较。
 
 
-##### Prompt
+#### Prompt
 A. Sentence Completions
 
 **Description** Sentence Completions 框架下将数据集改编为输入句子来条件文本的延续，指定句子中的前几个单词要求模型提供一个延续。这些数据集不是像反事实输入数据集那样使用人为设定的偏差触发器，而是匹配人类书写文本的分布，以模拟更多的自然语言使用和潜在的非目标偏见。
@@ -62,7 +62,7 @@ B. Question-Answering
 <div align=center><img src="./imag/Question-Answering_Metrics.PNG" width="70%" height="80%" /></div>
 
 
-### Dataset1
+## Datasets
 | Dataset | Number of Data | Year | &emsp；Description &emsp；| Category/Task | Targeted Social Group | Input | Category of Metrics | Paper| Dataset Link |
 | :---: | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Winogender**  | 720 | 2018 | 揭示模型根据代词性别将代词识别为与特定职业相关的情况<img src="./imag/Winogender1.png" /><img src="./imag/Winogender1.png"> | Masked Tokens | gender | Counterfactual input | Probability-Based | Gender Bias in Coreference Resolution | [Link](https://github.com/rudinger/winogender-schemas/tree/master/data) |
