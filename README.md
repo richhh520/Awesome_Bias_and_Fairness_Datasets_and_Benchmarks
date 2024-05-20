@@ -17,6 +17,7 @@
 
 Thanks to the contributions of Zhiting Fan and Ruiling Xu at Zhejiang University. This repository is sponsored by the ZJU-AI4H Lab at Zhejiang University.
 
+Thanks to ``Bias and Fairness in Large Language Models: A Survey''.
 
 # Datasets and Benchmarks
 | Dataset | Number of Data | Year | Description | Category/Task | Targeted Social Group | Input | Category of Metrics | Paper| Dataset Link |
