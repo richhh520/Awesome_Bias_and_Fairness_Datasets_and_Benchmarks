@@ -7,7 +7,7 @@
 - [Datasets and Benchmarks](#dataset1)
 - [Metrics](#metrics)
   - [Counterfactual input](#counterfactual-input)
-  - [Prompt](#prompt)
+  - [Prompt input](#prompt)
 
 ---
 
