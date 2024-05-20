@@ -5,11 +5,10 @@
 ## 🔍 Contents
 - [💡 Acknowledgement](#-Acknowledgement)
 - [📜 Awesome Bias and Fairness Datasets and Benchmarks in Language Models](#-related-works)
-  - [Bias Detection/Evaluation (Dataset)](#bias-detection/evaluation-(dataset))
-    - [Metrics](#metrics)
-      - [Counterfactual input](#counterfactual-input)
-      - [Prompt](#prompt)
-    - [Dataset1](#dataset1)
+  - [Metrics](#metrics)
+    - [Counterfactual input](#counterfactual-input)
+    - [Prompt](#prompt)
+  - [Dataset1](#dataset1)
 
 ---
 
@@ -22,7 +21,6 @@ Thanks to the contributions of Zhiting Fan and Ruiling Xu at Zhejiang University
 
 ## 📜 Awesome Bias and Fairness Datasets and Benchmarks in Language Models
 
-### Bias Detection/Evaluation(Dataset) bias-detection/evaluation-(dataset) <a id = "bias-detection/evaluation-(dataset)"></a>
 
 #### Metrics <a id = "metrics"></a>
 
