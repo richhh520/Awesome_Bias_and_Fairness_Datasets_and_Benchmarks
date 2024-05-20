@@ -3,7 +3,7 @@
 ---
 
 ## 🔍 Contents
-- [💡 Introduction](#-introduction)
+- [💡 Acknowledgement](#-Acknowledgement)
 - [📜 Awesome Bias and Fairness Datasets and Benchmarks in Language Models](#-related-works)
   - [Bias Detection/Evaluation (Dataset)](#bias-detection/evaluation-(dataset))
     - [Metrics](#metrics)
