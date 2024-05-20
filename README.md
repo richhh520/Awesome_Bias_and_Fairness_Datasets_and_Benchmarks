@@ -12,13 +12,6 @@
       - [Counterfactual input](#counterfactual-input)
       - [Prompt](#prompt)
     - [Dataset1](#dataset1)
-    - [Mitigatioin Method](#mitigatioin-method)
-  - [Challenges in Metrics](#challenges)
-    - [Metrics](#metrics)
-    - [Dataset2](#dataset2)
-    - [Debiasing Technicals](#debiasing-technicals)
-  - [Automatic Bias Detection](#automatic-bias-detection)
-  - [RAG](#rag)
 
 ---
 
